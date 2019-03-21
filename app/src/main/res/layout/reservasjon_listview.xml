@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/reservasjon_romnr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rom Id"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/reservasjon_dato"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:text="Dato"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_alignLeft="@+id/reservasjon_tid" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/reservasjon_tid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:text="Fra Til"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

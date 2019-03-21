@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">s309856Mappe3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="BestillRomKnapp">Bestill rom</string>
+    <string name="SeReservasjoner">Reservasjoner</string>
+    <string name="LeggTilRom">Legg til rom</string>
+    <string name="SkrivRomnr">Skriv inn Rom nummer</string>
+    <string name="SkrivDato">Skriov inn dato</string>
+    <string name="SkrivTid">Skriv inn tid</string>
+    <string name="SkrivBeskrivelse">Skriv inn beskrivelse</string>
+    <string name="SkrivLatitude">Skriv inn latitude</string>
+    <string name="SkrivLongtitude">Skriv inn longtitude</string>
+    <string name="leggTil">Legg til</string>
+</resources>
